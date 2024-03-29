@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Secrethouse
+  - Secretbattle
+  - Boss
+  - EnemyBullet
+  - Boarder
+  - PlayerBullet
+  - Health
+  - Obstacle
+  - TileMap
+  - GaiatoMiro
+  - MirotoGaia
+  - Area
+  - AreatoMiro
+  - Mob
+  - Gaiatofight
+  - Object
+  - AreatoBoss
+  - AreatoFire
+  - FiretoArea
+  - FiretoDesert
+  - DeserttoFire
+  - DeserttoTop
+  - ToptoDesert
+  - ToptoKilled
+  - KilledtoTop
+  - DeserttoSecret
+  - SecrettoDesert
+  - SecrettoFightNinja
+  - DeserttoEscape
+  - EscapetoDesert
+  - ExptoBoss
+  - ExptoEscape
+  - EscapetoExp
+  - DeserttoRo
+  - RotoDesert
+  - LoadtoWhale
+  - WhaletoOc
+  - OctoOthouse
+  - OthousetoOc
+  - CrabtoOc
+  - OctoCrab
+  - OctoDerrick
+  - DerricktoOc
+  - DetoSo
+  - SotoDe
+  - OctoPo
+  - PotoOc
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - NPC
+  - 'NPC done '
+  - NPC yet
+  - minimap
+  - Solider_V
+  - Solider_H
+  - Line
+  - Object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4199685323
+    locked: 0
+  - name: CameraSortingLayer
+    uniqueID: 2270672215
+    locked: 0

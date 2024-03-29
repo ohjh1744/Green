@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Story1_scene/Scene0.unity
+    guid: 4a2748be1f67f014fbdce7ee2bf13626
+  - enabled: 1
+    path: Assets/Scenes/Story1_scene/Story1_area.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Story1_scene/Story1_secrethouse.unity
+    guid: 27c887e7486ae9a4b805214374b922e5
+  - enabled: 1
+    path: Assets/Scenes/Story1_scene/Story1_secret_battle/Story1_secret_battle.unity
+    guid: 2d994e32783007d47ae296680c7173c9
+  - enabled: 1
+    path: Assets/Scenes/Story1_scene/Story1_miro.unity
+    guid: 5272d9572e965dc48a73419c0c6e6209
+  - enabled: 1
+    path: Assets/Scenes/Story1_scene/Story1_mine.unity
+    guid: 9e2b0f2d937afd14b8326a1e8968a376
+  - enabled: 1
+    path: Assets/Scenes/Story1_scene/Story1_mine_fight/Story1_mine_fight.unity
+    guid: 197c9951fb552614f9192159b3d2774f
+  - enabled: 1
+    path: Assets/Scenes/Story1_scene/Story1_boss/Story1_boss.unity
+    guid: dd1d7ae0a3c584445b2f210c8efa31e5
+  - enabled: 1
+    path: Assets/Scenes/Stroy2_scene/Story2_BurningFire.unity
+    guid: 9fa1d158a45d48c4e90daa764c9bd9ed
+  - enabled: 1
+    path: Assets/Scenes/Stroy2_scene/Story2_main.unity
+    guid: 9bd5b8d29d11e1b409bb7665ff5f8b55
+  - enabled: 1
+    path: Assets/Scenes/Stroy2_scene/Story2_complex.unity
+    guid: 30cf2efa5337af44a803238c4fb6820d
+  - enabled: 1
+    path: Assets/Scenes/Stroy2_scene/Story2_Killed_Agent.unity
+    guid: 192c7c1d65de3ab429184c5b90363a32
+  - enabled: 1
+    path: Assets/Scenes/Stroy2_scene/Story2_SecretMeeting.unity
+    guid: d1be8c8fbea489842a8d64ee13e89a8c
+  - enabled: 1
+    path: Assets/Scenes/Stroy2_scene/Story2_SpyBattle/Story2_SpyBattle.unity
+    guid: f614c46421fd55341a5c864f6ad38fb3
+  - enabled: 1
+    path: Assets/Scenes/Stroy2_scene/Story2_Escape.unity
+    guid: 72fc307c501e97d4d9c426d858b80ad3
+  - enabled: 1
+    path: Assets/Scenes/Stroy2_scene/Story2_Exp.unity
+    guid: f392f2e81f26a1b47914447678ba79fa
+  - enabled: 1
+    path: Assets/Scenes/Stroy2_scene/Story2_FinalBoss/Story2_FinalBoss.unity
+    guid: d02e1a036e1b2e0449764ba146a7b5b2
+  - enabled: 1
+    path: Assets/Scenes/Story3_scene/Story3_RoadtoOcean.unity
+    guid: f6822fd2f26febb41b2052b2e7ff2c0e
+  - enabled: 1
+    path: Assets/Scenes/Story3_scene/Story3_Whale_Hotel.unity
+    guid: 502e04d9d36508e4382369576e143dca
+  - enabled: 1
+    path: Assets/Scenes/Story3_scene/Story3_OceanCity.unity
+    guid: 1b523d6b2532f604e8e4b687664d63bd
+  - enabled: 1
+    path: Assets/Scenes/Story3_scene/Story3_Octopus.unity
+    guid: bd4ca568936505b42986c0c830b4084d
+  - enabled: 1
+    path: Assets/Scenes/Story3_scene/Story3_Hide_Octopus.unity
+    guid: a0a0ce4aa45b5974a8384e6193e410cf
+  - enabled: 1
+    path: Assets/Scenes/Story3_scene/Story3_Crabhouse.unity
+    guid: 8b11517162288b24db3a8f75534657d3
+  - enabled: 1
+    path: Assets/Scenes/Story3_scene/Story3_Derrick.unity
+    guid: 4c31b2abc163f474aa347cdbe1a5ea68
+  - enabled: 1
+    path: Assets/Scenes/Story3_scene/Story3_Sokoban.unity
+    guid: 808b856ee5a8edc42918c0dbc802fe8e
+  - enabled: 1
+    path: Assets/Scenes/Story3_scene/Story3_pollute.unity
+    guid: 943acb60c94da2d42818a785bd322f0d
+  m_configObjects: {}
